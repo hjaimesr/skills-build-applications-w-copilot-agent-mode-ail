@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "octofit-tracker-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react": "19",
+    "react-dom": "19"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
